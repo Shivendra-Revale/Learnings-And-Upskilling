@@ -28,4 +28,7 @@ First Install npm then run following Steps in Terminal:
     To install Bootstrap run following commands
     <br/>
 
-    5 npm i bootstrap@5.3.2
+5. npm i bootstrap@5.3.2
+   <br/>
+
+   Import "bootstrap/dist/css/bootstrap.min.css";
