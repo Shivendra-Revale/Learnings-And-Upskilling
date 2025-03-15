@@ -24,3 +24,8 @@ First Install npm then run following Steps in Terminal:
     <br/>
 4.  npm run dev
     <br/>
+
+    To install Bootstrap run following commands
+    <br/>
+
+    5 npm i bootstrap@5.3.2
